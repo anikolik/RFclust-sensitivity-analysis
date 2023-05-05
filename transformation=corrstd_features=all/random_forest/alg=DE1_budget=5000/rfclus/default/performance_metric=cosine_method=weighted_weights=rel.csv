@@ -1,0 +1,5 @@
+index,times_better,times_equal,times_worse,mean,median,calibration_method,weights_method,algorithm_name
+RF,,,,1.2678045154888886,0.9109551962574913,weighted,rel,DE1
+0.9,6.0,20.0,4.0,1.2569744340992544,0.8373329526919553,weighted,rel,DE1
+0.7,15.0,8.0,7.0,1.157741836410526,0.9015896755198138,weighted,rel,DE1
+0.5,18.0,0.0,12.0,1.147766567559671,0.9594577052672317,weighted,rel,DE1
